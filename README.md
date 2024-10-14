@@ -58,12 +58,11 @@ codenation/
 ├── index.html             # Main HTML file
 └── README.md              # This README file
 ```
+![image](https://github.com/user-attachments/assets/52cd8a80-11b5-455a-8ddb-452e8139fca9)
 
-![image](https://github.com/user-attachments/assets/57772c15-f02f-4565-9c1e-bd5beb84f551)
+![image](https://github.com/user-attachments/assets/7dd99888-0cad-4075-8e39-98fa37f75f49)
 
-![image](https://github.com/user-attachments/assets/40034900-2baa-46bc-aaa9-b1e78dd66579)
-
-![image](https://github.com/user-attachments/assets/f4e8eea8-2fb4-4c96-9675-11a72d3b142d)
+![image](https://github.com/user-attachments/assets/d62ea572-3611-43d6-aabd-75004c7512fa)
 
 
 ## License
