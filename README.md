@@ -55,6 +55,8 @@ codenation/
 │   ├── react-logo.png      # Image for React.js card
 │   ├── machine-learning.jpg # Image for Machine Learning card
 │   └── cybersecurity.jpg  # Image for Cybersecurity card
+├── about.html             # About HTML file
+├── contact.html           # Contact Us HTML file
 ├── index.html             # Main HTML file
 └── README.md              # This README file
 ```
